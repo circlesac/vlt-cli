@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.log
+bin/native/
+*.bun-build
